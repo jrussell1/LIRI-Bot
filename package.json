@@ -1,0 +1,20 @@
+{
+  "name": "LIRI-Bot",
+  "version": "1.0.0",
+  "description": "LIRI is a command line node app that takes in parameters and gives you back data. I was not able to get the Twitter API keys however I was able to use the Spotify and OMDB API's for this project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrussell1/LIRI-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrussell1/LIRI-Bot/issues"
+  },
+  "homepage": "https://github.com/jrussell1/LIRI-Bot#readme"
+}
